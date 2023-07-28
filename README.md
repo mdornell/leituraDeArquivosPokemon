@@ -1,5 +1,6 @@
-# leituraDeArquivosPokemon
+# Leitura de Arquivos - Pokemon
 Trabalho feito na disciplina de Programação 2 no qual deveríamos fazer uma leitura de dados de um arquivo e mostrar dados específicos
+Com a tematica de Pokemon
 
 **Especificação**
 Considere que um Pokemon (struct) e uma Cidade (struct) sejam definidos da seguinte
