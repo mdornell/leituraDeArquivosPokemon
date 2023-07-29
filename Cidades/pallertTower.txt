@@ -1,0 +1,3 @@
+Saovauga	Lickitung	50	1.8	600
+Wahlmeti	Chansey	20	0.8	345
+Zyoguvo	Kangaskhan	38	1.2	225

@@ -1,0 +1,7 @@
+Keyki	Pikachu	22	1.5	321
+Olisn	Raichu	50	0.8	345
+Alphose	Pichu	20	0.8	352
+Mirond	Raikou	31	1.1	248
+Xueosion	Electrike	59	1.7	465
+Ulon	Manectric	78	1.6	784
+Adalbert	Pichu	20	0.8	352

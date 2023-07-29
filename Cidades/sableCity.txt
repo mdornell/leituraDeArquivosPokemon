@@ -1,0 +1,7 @@
+Maluil	Charmander	64	1.9	56
+Xyearpol	Charmeleon	37	2.5	213
+Gaon	Charizard	22	1.5	321
+Thrlagen	Vulpix	50	0.8	345
+Xueosion	Ninetales	20	1.2	225
+Ulon	Arcanine	37	2.5	200
+Sanowuli	Ponyta	22	0.8	345

@@ -1,0 +1,3 @@
+Maluil	Charmander	64	1.9	56
+Xyearpol	Charmeleon	37	2.5	213
+Gaon	Charizard	22	1.5	321

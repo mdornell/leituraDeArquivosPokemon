@@ -1,0 +1,5 @@
+PalletTown	Normal	pallertTower.txt
+Viridian	Fogo	viridian.txt
+ViridianFlorest	Agua	viridianForest.txt
+SableCity	Fogo	sableCity.txt
+Pewter	Eletrico	pewter.txt

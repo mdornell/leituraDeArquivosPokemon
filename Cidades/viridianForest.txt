@@ -1,0 +1,4 @@
+Tidor	Squirtle	10	2.4	312
+Sweeg	Squirtle	10	2.4	342
+Amxais	Wartortle	59	1.7	465
+Kunag	Blastoise	78	1.6	784
