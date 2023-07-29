@@ -1,3 +1,4 @@
+//Para que o codigo funcione e nescessario que os arquivos ".txt" na pasta "Cidades" estajam na mesma pasta do codigo 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
